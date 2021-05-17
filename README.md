@@ -19,7 +19,7 @@ pip install pyviridis
 or from github
 
 ```
-pip install git+
+pip install git+https://github.com/fanyiranli/pyviridis
 ```
 
 ### Use
